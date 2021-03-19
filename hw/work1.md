@@ -13,4 +13,4 @@
 | 機器類型| n1-standard-1   | m3.medium | D1 v2 |
 | 作業系統 | Linux | Linux | Linux |
 | 每月費用（主機＋硬碟)（USD)| $34.67 | $49.05 | $52.08 |
-<font color=#FF0000>haha</font>
+<font color=#FF0000> haha</font>
