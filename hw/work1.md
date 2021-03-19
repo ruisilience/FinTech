@@ -7,9 +7,9 @@
 - 銷售額成長33％
 #### MICROSOFT AZURE ： 17%
 #### GOOGLE. 阿里雲 ： 6%  
-| AWS | AZURE  | GOOGLE | 地去 |
-| :------------ |:---------------:| -----:| ----:|
-|      | some wordy text | $1600 | s |
-| col 2 is      | centered        |   $12 | s |
-| zebra stripes | are neat        |    $1 | s |
-| test | 測試        |    $3333 | s |
+|  | AWS  | AZURE | GOOGLE |
+| :-----:| :-------:| :-----:| :----:|
+| 地區   | ＵＳＡ | ＵＳＡ | ＵＳＡ |
+| 機器類型| n1-standard-1   | m3.medium | D1 v2 |
+| 作業系統 | Linux | Linux | Linux |
+| 每月費用（主機＋硬碟)（USD)| $34.67 | $49.05 | $52.08 |
