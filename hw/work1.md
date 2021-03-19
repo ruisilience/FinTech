@@ -7,11 +7,12 @@
 - 銷售額成長33％
 #### MICROSOFT AZURE ： 17%
 #### GOOGLE. 阿里雲 ： 6%  
+<font color=#FF0000>
+  #### skccs
+ </font>
 |  | AWS  | AZURE | GOOGLE |
 | :-----:| :-------:| :-----:| :----:|
 | 地區   | ＵＳＡ | ＵＳＡ | ＵＳＡ |
 | 機器類型| n1-standard-1   | m3.medium | D1 v2 |
 | 作業系統 | Linux | Linux | Linux |
 | 每月費用（主機＋硬碟)（USD)| $34.67 | $49.05 | $52.08 |
-<font color=#FF0000> haha
-</font>
