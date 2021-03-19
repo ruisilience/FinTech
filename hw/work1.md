@@ -6,10 +6,7 @@
 #### AWS： 32%
 - 銷售額成長33％
 #### MICROSOFT AZURE ： 17%
-#### GOOGLE. 阿里雲 ： 6%  
-<font color=#FF0000>
-  #### skccs
- </font>
+#### GOOGLE. 阿里雲 ： 6% 
 |  | AWS  | AZURE | GOOGLE |
 | :-----:| :-------:| :-----:| :----:|
 | 地區   | ＵＳＡ | ＵＳＡ | ＵＳＡ |
