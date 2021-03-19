@@ -14,4 +14,5 @@
 | 作業系統 | Linux | Linux | Linux |
 | 每月費用（主機＋硬碟)（USD)| $34.67 | $49.05 | $52.08 |
 <font color=#FF0000>
-  haha</font>
+  haha
+</font>
