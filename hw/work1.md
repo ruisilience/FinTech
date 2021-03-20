@@ -12,4 +12,5 @@
 | 地區   | ＵＳＡ | ＵＳＡ | ＵＳＡ |
 | 機器類型| n1-standard-1   | m3.medium | D1 v2 |
 | 作業系統 | Linux | Linux | Linux |
+| 運算工具| Simple Monthly Calculator | Pricing Calculator | Pricing Calculator |
 | 每月費用（主機＋硬碟)（USD)| $34.67 | $49.05 | $52.08 |
