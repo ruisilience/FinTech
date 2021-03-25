@@ -15,17 +15,3 @@
 | 東吳巨資 | 潘竑叡 |
 | 東吳巨資 | 詹博揚 |
 
-#### c8 
-
-```flow
-st=>start: 使用者登陸
-op=>operation: 登陸操作
-cond=>condition: 登陸成功 Yes or No?
-e=>end: 進入後臺
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-[========]
-
