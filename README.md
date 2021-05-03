@@ -5,6 +5,7 @@
 ##### HW2 : [EC2 with LAMP](https://youtu.be/qEJeD9jz8mU)
 ##### HW3 : [S3 & Amplify](https://www.youtube.com/watch?v=uGQcnV25WwU)
 ##### HW4 : [Telegram-chatbot](https://www.youtube.com/watch?v=rHb4u7u9LSo)
+##### HW5 : [CRUD](https://youtu.be/l2PdHunnHsE)
 ------------------------------
 ### 專題：南山（二）組別三 
 👷 👷‍♀️
